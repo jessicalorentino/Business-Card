@@ -1,0 +1,49 @@
+p{
+    color:black;
+    font-size: 30px;
+    font-family: arial;
+    margin: 50px;
+}
+
+.nome{
+    color: black;
+    font-size: 75px;
+    font-family: 'Cinzel', serif;
+    margin: 50px;
+}
+
+.card{
+    background-image: url(./images/backgorund.png);
+    background-repeat: no-repeat;
+    width: 500px ;
+    height: 275px;
+    background-size: cover;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.github{
+
+    list-style-image: url(./images/github.png.png);
+}
+
+
+.E-mail{
+    list-style-image: url(./images/email.png.png);
+}
+
+
+.Linkedin{
+    list-style-image: url(./images/linkedin.png.png);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
